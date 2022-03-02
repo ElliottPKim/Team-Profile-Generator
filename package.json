@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "creates a team using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElliottPKim/Team-Profile-Generator.git"
+  },
+  "author": "ElliottPKim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElliottPKim/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/ElliottPKim/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.5.1"
+  }
+}
