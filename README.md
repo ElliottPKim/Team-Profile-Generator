@@ -6,6 +6,8 @@ Team profile generator will ask a series of questions when ran using node to ass
 
 # DEMO
 
+https://user-images.githubusercontent.com/20825441/157788105-dd5cef34-6321-47a5-8a63-7db049c73b4d.mp4
+
 # Websites
 
 https://github.com/ElliottPKim/Team-Profile-Generator
